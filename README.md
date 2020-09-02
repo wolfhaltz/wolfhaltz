@@ -6,6 +6,11 @@ I like challenges and I'm also passionate about science, music, and art.
 ### 🌱 I’m currently learning:
 #### Vue, Angular and Node
 
+### 🔭 Languages that I already worked with:
+1. PHP
+2. Java
+3. Python
+
 ### ⚡ Random facts:
 1. I love sharks, and I strongly recommend you to search "Jeff the land shark" on Google hahah
 2. I like to drawing and you can see my work here: <a href="http://instagram.com/tocrossbridge" target="_blank">@tocrossbridge</a>
