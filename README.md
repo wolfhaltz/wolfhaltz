@@ -8,7 +8,7 @@ I like challenges and I'm also passionate about science, music, and art.
 
 ### ⚡ Random facts:
 1. I love sharks, and I strongly recommend you to search "Jeff the land shark" on Google hahah
-2. I like to drawing and you can see my work here: <a href="http://instagram.com/tocrossbridge">@tocrossbridg</a>
+2. I like to drawing and you can see my work here: <a href="http://instagram.com/tocrossbridge">@tocrossbridge</a>
 
 <!--
 **wolfhaltz/wolfhaltz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
