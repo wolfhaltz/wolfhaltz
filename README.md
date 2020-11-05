@@ -8,7 +8,7 @@ My heart beats for developing systems and, I truly believe, that we can improve 
 I like challenges and I'm also passionate about science, music, and art.
 
 ### 🌱 I’m currently learning:
-#### Vue, Angular and Node
+#### Vue
 
 ### 🔭 Languages that I already worked with:
 1. PHP
