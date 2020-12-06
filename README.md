@@ -17,36 +17,18 @@ I like challenges and I'm also passionate about science, music, and art.
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  ![JavaScript](icons/js.svg)
-  ![PHP]
-  ![Python]
-  ![Java]
+<img src="javascript_01.png" />
+
 - 🌐 &nbsp;
-  ![HTML5]
-  ![CSS]
-  ![Bootstrap]
-  ![Laravel]
-  ![Django]
-  ![Flask]
-  ![Spring]
-  ![Vue.js]
-  ![Node.js]
-  ![React]
-  ![Angular]
+
 - 🛢 &nbsp;
-  ![MySQL]
-  ![Firebase]
+
 - ⚙️ &nbsp;
-  ![Git]
-  ![GitHub]
-  ![Bitbucket]
+
 - 🔧 &nbsp;
-  ![Visual Studio Code]
-  ![Intellij]
+
 - 🖥 &nbsp;
-  ![Photoshop]
-  ![Figma]
-  ![Canva]
+
 
 <br/>
 
@@ -69,3 +51,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+C r e d i t s :
+Icons made by <a href="https://www.flaticon.com/authors/flat-icons" title="Flat Icons">Flat Icons</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
