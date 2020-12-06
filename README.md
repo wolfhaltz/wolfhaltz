@@ -55,8 +55,9 @@ I like challenges and I'm also passionate about science, music, and art.
 2. I like to drawing and you can see my work here: <a href="http://instagram.com/tocrossbridge" target="_blank">@tocrossbridge</a>
 
 
+<br/><br/>
 C r e d i t s :shipit:
 
-Icons made by <a href="https://www.flaticon.com/authors/flat-icons" title="Flat Icons">Flat Icons</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
-
+Icons made by:
+<a href="https://www.flaticon.com/authors/flat-icons" title="Flat Icons">Flat Icons</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
 <a href="https://icons8.com/icon/nBeuei22ZvUb/canva">Canva icon by Icons8</a>
