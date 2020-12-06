@@ -36,10 +36,11 @@ I like challenges and I'm also passionate about science, music, and art.
 
 <h3> 🛠 &nbsp;Design Stack</h3>
 - :shipit: &nbsp;
+<br>
 <p float="left">
   <img src="/icons/adobe-photoshop.png" /> 
   <img src="/icons/figma.png" />
-  <img src="/icons/canva.png" />
+  <img src="/icons/canva_icon.png" />
 </p>
 
 <br/>
