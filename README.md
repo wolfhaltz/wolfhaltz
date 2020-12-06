@@ -17,30 +17,31 @@ I like challenges and I'm also passionate about science, music, and art.
 
 - 🌐 &nbsp;
 <p float="left">
-  <img src="/icons/?.png" /> 
+  <img src="/svg/html5.svg" style="width: 64px" /> 
+  <img src="/svg/css3.svg" style="width: 64px" /> 
+  <img src="/svg/bootstrap.svg" style="width: 64px" /> 
+  <img src="/svg/laravel.svg" style="width: 64px" /> 
+  <img src="/svg/vue-js.svg" style="width: 64px" /> 
+  <img src="/svg/angular.svg" style="width: 64px" /> 
+  <img src="/svg/node-js.svg" style="width: 64px" /> 
+  <img src="/svg/react.svg" style="width: 64px" /> 
 </p>
 
-- 🛢 SGBDs &nbsp;
+- 🛢 DBs &nbsp;
 <p float="left">
   <img src="/icons/mysql.png" />
 </p>
-- ⚙️ &nbsp;
-<p float="left">
-  <img src="/icons/?.png" /> 
-</p>
 
-- 🔧 &nbsp;
+- ⚙️🔧 &nbsp;
 <p float="left">
-  <img src="/icons/?.png" /> 
+  <img src="/svg/codepen.svg" style="width: 64px" /> 
 </p>
 
 <h3> 🛠 &nbsp;Design Stack</h3>
-- :shipit: &nbsp;
-<br>
 <p float="left">
   <img src="/icons/adobe-photoshop.png" width="50" /> 
   <img src="/icons/figma.png" width="50" />
-  <img src="/icons/canva_icon.png" width="60" />
+  <img src="/icons/canva_icon.png" width="70" />
 </p>
 
 <br/>
@@ -50,23 +51,8 @@ I like challenges and I'm also passionate about science, music, and art.
 1. I love sharks, and I strongly recommend you to search "Jeff the land shark" on Google hahah
 2. I like to drawing and you can see my work here: <a href="http://instagram.com/tocrossbridge" target="_blank">@tocrossbridge</a>
 
-<!--
-**wolfhaltz/wolfhaltz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-C r e d i t s :
+C r e d i t s :shipit:
 
 Icons made by <a href="https://www.flaticon.com/authors/flat-icons" title="Flat Icons">Flat Icons</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
 
