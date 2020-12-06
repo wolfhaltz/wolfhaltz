@@ -18,7 +18,7 @@ I like challenges and I'm also passionate about science, music, and art.
 
 - 🛢 SGBDs &nbsp;
 <p float="left">
-  <img src="/icons/sql.png" />
+  <img src="/icons/mysql.png" />
 </p>
 - ⚙️ &nbsp;
 
