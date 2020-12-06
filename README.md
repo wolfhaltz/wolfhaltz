@@ -38,9 +38,9 @@ I like challenges and I'm also passionate about science, music, and art.
 - :shipit: &nbsp;
 <br>
 <p float="left">
-  <img src="/icons/adobe-photoshop.png" /> 
-  <img src="/icons/figma.png" />
-  <img src="/icons/canva_icon.png" />
+  <img src="/icons/adobe-photoshop.png" width="50" /> 
+  <img src="/icons/figma.png" width="50" />
+  <img src="/icons/canva_icon.png" width="60" />
 </p>
 
 <br/>
