@@ -14,17 +14,31 @@ I like challenges and I'm also passionate about science, music, and art.
   <img src="/icons/python.png" />
   <img src="/icons/java.png" />
 </p>
+
 - 🌐 &nbsp;
+<p float="left">
+  <img src="/icons/?.png" /> 
+</p>
 
 - 🛢 SGBDs &nbsp;
 <p float="left">
   <img src="/icons/mysql.png" />
 </p>
 - ⚙️ &nbsp;
+<p float="left">
+  <img src="/icons/?.png" /> 
+</p>
 
 - 🔧 &nbsp;
+<p float="left">
+  <img src="/icons/?.png" /> 
+</p>
 
 - 🖥 &nbsp;
+<p float="left">
+  <img src="/icons/?.png" /> 
+</p>
+
 
 
 <br/>
