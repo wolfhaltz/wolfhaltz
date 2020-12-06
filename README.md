@@ -8,8 +8,6 @@ I like challenges and I'm also passionate about science, music, and art.
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 💻 &nbsp;
-
-🔧 &nbsp;
 | Languages                                | Frameworks & Libraries                      | Others
 | ---------------------------------------- |:-------------------------------------------:| ------------------------------------------:|
 | <img src="/svg/js.svg" width="25" />     | <img src="/svg/bootstrap.svg" width="25" /> | <img src="/svg/html5.svg" width="25" />    |
