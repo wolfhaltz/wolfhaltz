@@ -25,7 +25,13 @@ I like challenges and I'm also passionate about science, music, and art.
 | <img src="/svg/codepen.svg" width="25" />   |                                           |
 
 <h3> 🛠 &nbsp;Design Stack</h3>
-<br/><br/>
+| Dev tools                                   | DBs                                       |
+| ------------------------------------------- | -----------------------------------------:|
+| <img src="/svg/git.svg" width="25" />       | <img src="/icons/mysql.png" width="40" /> |
+| <img src="/svg/github.svg" width="25" />    |                                           |
+| <img src="/svg/bitbucket.svg" width="25" /> |                                           |
+| <img src="/svg/codepen.svg" width="25" />   |                                           |
+
 | Tools                                               | Others                                        |
 | --------------------------------------------------- | ---------------------------------------------:|
 | <img src="/icons/adobe-photoshop.png" width="40" /> | <img src="/icons/canva_icon.png" width="40" />|
