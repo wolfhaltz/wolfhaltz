@@ -8,16 +8,11 @@ I like challenges and I'm also passionate about science, music, and art.
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 Programming languages &nbsp;
-<div style="display: inline-block!important"><img src="icons/java.png" /></div>
-<div style="display: inline-block!important"><img src="icons/javascript.png" /></div>
-<div style="display: inline-block!important"><img src="icons/php.png" /></div>
-<div style="display: inline-block!important"><img src="icons/python.png" /></div>
-
-Test:
 <p float="left">
-  <img src="/icons/java.png" width="100" />
-  <img src="/icons/java.png" width="100" /> 
-  <img src="/icons/java.png" width="100" />
+  <img src="/icons/javascript.png" /> 
+  <img src="/icons/php.png" />
+  <img src="/icons/python.png" />
+  <img src="/icons/java.png" />
 </p>
 - 🌐 &nbsp;
 
