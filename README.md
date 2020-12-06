@@ -29,12 +29,15 @@ I like challenges and I'm also passionate about science, music, and art.
 
 🛢 DBs &nbsp;
 <p float="left">
-  <img src="/icons/mysql.png" />
+  <img src="/icons/mysql.png" width="40" />
 </p>
 
 ⚙️ &nbsp;
 <p float="left">
   <img src="/svg/codepen.svg" width="25" /> 
+  <img src="/svg/git.svg" width="25" /> 
+  <img src="/svg/github.svg" width="25" /> 
+  <img src="/svg/bitbucket.svg" width="25" /> 
 </p>
 
 <h3> 🛠 &nbsp;Design Stack</h3>
