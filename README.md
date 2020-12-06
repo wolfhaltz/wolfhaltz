@@ -15,7 +15,7 @@ I like challenges and I'm also passionate about science, music, and art.
   <img src="/svg/java.svg" width="25" />
 </p>
 
-- 🌐 &nbsp;
+- 🔧 &nbsp;
 <p float="left">
   <img src="/svg/html5.svg" width="25" /> 
   <img src="/svg/css3.svg" width="25" /> 
@@ -32,7 +32,7 @@ I like challenges and I'm also passionate about science, music, and art.
   <img src="/icons/mysql.png" />
 </p>
 
-- ⚙️🔧 &nbsp;
+- ⚙️ &nbsp;
 <p float="left">
   <img src="/svg/codepen.svg" width="25" /> 
 </p>
