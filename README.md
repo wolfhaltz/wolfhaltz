@@ -16,25 +16,21 @@ I like challenges and I'm also passionate about science, music, and art.
 | <img src="/svg/java.svg" width="25" />   | <img src="/svg/angular.svg" width="25" />   |                                            |
 |                                          | <img src="/svg/react.svg" width="25" />     | 
 
-🛢 DBs &nbsp;
-<p float="left">
-  <img src="/icons/mysql.png" width="40" />
-</p>
-
-⚙️ &nbsp;
-<p float="left">
-  <img src="/svg/codepen.svg" width="25" /> 
-  <img src="/svg/git.svg" width="25" /> 
-  <img src="/svg/github.svg" width="25" /> 
-  <img src="/svg/bitbucket.svg" width="25" /> 
-</p>
+🛢 Tools ⚙️ &nbsp;
+| Dev tools                                   | DBs                                       |
+| ------------------------------------------- | -----------------------------------------:|
+| <img src="/svg/git.svg" width="25" />       | <img src="/icons/mysql.png" width="40" /> |
+| <img src="/svg/github.svg" width="25" />    |                                           |
+| <img src="/svg/bitbucket.svg" width="25" /> |                                           |
+| <img src="/svg/codepen.svg" width="25" />   |                                           |
 
 <h3> 🛠 &nbsp;Design Stack</h3>
-<p float="left">
-  <img src="/icons/adobe-photoshop.png" width="40" /> 
-  <img src="/icons/figma.png" width="40" />
-  <img src="/icons/canva_icon.png" width="40" />
-</p>
+| Tools                                               |
+| --------------------------------------------------- |
+| <img src="/icons/adobe-photoshop.png" width="40" /> |
+| <img src="/icons/figma.png" width="40" />           |
+| <img src="/icons/canva_icon.png" width="40" />      |
+
 
 <br/>
 
