@@ -17,14 +17,14 @@ I like challenges and I'm also passionate about science, music, and art.
 
 - 🌐 &nbsp;
 <p float="left">
-  <img src="/svg/html5.svg" width="64" /> 
-  <img src="/svg/css3.svg" style="width: 64px" /> 
-  <img src="/svg/bootstrap.svg" style="width: 64px" /> 
-  <img src="/svg/laravel.svg" style="width: 64px" /> 
-  <img src="/svg/vue-js.svg" style="width: 64px" /> 
-  <img src="/svg/angular.svg" style="width: 64px" /> 
-  <img src="/svg/node-js.svg" style="width: 64px" /> 
-  <img src="/svg/react.svg" style="width: 64px" /> 
+  <img src="/svg/html5.svg" width="25" /> 
+  <img src="/svg/css3.svg" width="25" /> 
+  <img src="/svg/bootstrap.svg" width="25" /> 
+  <img src="/svg/laravel.svg" width="25" /> 
+  <img src="/svg/vue-js.svg" width="25" /> 
+  <img src="/svg/angular.svg" width="25" /> 
+  <img src="/svg/node-js.svg" width="25" /> 
+  <img src="/svg/react.svg" width="25" /> 
 </p>
 
 - 🛢 DBs &nbsp;
@@ -34,7 +34,7 @@ I like challenges and I'm also passionate about science, music, and art.
 
 - ⚙️🔧 &nbsp;
 <p float="left">
-  <img src="/svg/codepen.svg" style="width: 64px" /> 
+  <img src="/svg/codepen.svg" width="25" /> 
 </p>
 
 <h3> 🛠 &nbsp;Design Stack</h3>
