@@ -5,22 +5,13 @@
 My heart beats for developing systems and, I truly believe, that we can improve ourselves every day, as well as we also can help people as we can, helping them to reach and raise the best inside them, and, make them spread their best to the world.
 I like challenges and I'm also passionate about science, music, and art.
 
-### 🌱 I’m currently learning:
-#### Vue
-
-### 🔭 Languages that I already worked with:
-1. PHP
-2. Java
-3. Python
-
-
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-- 💻 &nbsp;
-<div style="display: inline-block"><img src="icons/java.png" /></div>
-<div style="display: inline-block"><img src="icons/javascript.png" /></div>
-<div style="display: inline-block"><img src="icons/php.png" /></div>
-<div style="display: inline-block"><img src="icons/python.png" /></div>
+- 💻 Programming languages &nbsp;
+<div style="display: inline-block!important"><img src="icons/java.png" /></div>
+<div style="display: inline-block!important"><img src="icons/javascript.png" /></div>
+<div style="display: inline-block!important"><img src="icons/php.png" /></div>
+<div style="display: inline-block!important"><img src="icons/python.png" /></div>
 
 - 🌐 &nbsp;
 
