@@ -16,8 +16,10 @@ I like challenges and I'm also passionate about science, music, and art.
 </p>
 - 🌐 &nbsp;
 
-- 🛢 &nbsp;
-
+- 🛢 SGBDs &nbsp;
+<p float="left">
+  <img src="/icons/sql.png" />
+</p>
 - ⚙️ &nbsp;
 
 - 🔧 &nbsp;
