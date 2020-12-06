@@ -13,6 +13,12 @@ I like challenges and I'm also passionate about science, music, and art.
 <div style="display: inline-block!important"><img src="icons/php.png" /></div>
 <div style="display: inline-block!important"><img src="icons/python.png" /></div>
 
+Test:
+<p float="left">
+  <img src="/icons/java.png" width="100" />
+  <img src="/icons/java.png" width="100" /> 
+  <img src="/icons/java.png" width="100" />
+</p>
 - 🌐 &nbsp;
 
 - 🛢 &nbsp;
