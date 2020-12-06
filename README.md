@@ -16,6 +16,13 @@ I like challenges and I'm also passionate about science, music, and art.
 </p>
 
 🔧 &nbsp;
+| Frameworks                                  | Libraries                                 | Others                                     |
+| ------------------------------------------- |:-----------------------------------------:| ------------------------------------------:|
+| <img src="/svg/bootstrap.svg" width="25" /> | <img src="/svg/react.svg" width="25" />   | <img src="/svg/html5.svg" width="25" />    |
+| <img src="/svg/laravel.svg" width="25" />   |                                           | <img src="/svg/css3.svg" width="25" />     |
+| <img src="/svg/vuejs.svg" width="25" />     |                                           | <img src="/svg/node-js.svg" width="25" />  |
+| <img src="/svg/angular.svg" width="25" />   |                                           |                                            |
+
 <p float="left">
   <img src="/svg/html5.svg" width="25" /> 
   <img src="/svg/css3.svg" width="25" /> 
