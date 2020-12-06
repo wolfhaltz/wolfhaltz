@@ -42,9 +42,9 @@ I like challenges and I'm also passionate about science, music, and art.
 
 <h3> 🛠 &nbsp;Design Stack</h3>
 <p float="left">
-  <img src="/icons/adobe-photoshop.png" width="50" /> 
-  <img src="/icons/figma.png" width="50" />
-  <img src="/icons/canva_icon.png" width="70" />
+  <img src="/icons/adobe-photoshop.png" width="40" /> 
+  <img src="/icons/figma.png" width="40" />
+  <img src="/icons/canva_icon.png" width="40" />
 </p>
 
 <br/>
