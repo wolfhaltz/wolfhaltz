@@ -17,7 +17,10 @@ I like challenges and I'm also passionate about science, music, and art.
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-<img src="javascript.png" />
+<img src="icons/java.png" />
+<img src="icons/javascript.png" />
+<img src="icons/php.png" />
+<img src="icons/python.png" />
 
 - 🌐 &nbsp;
 
