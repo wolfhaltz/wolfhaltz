@@ -34,12 +34,13 @@ I like challenges and I'm also passionate about science, music, and art.
   <img src="/icons/?.png" /> 
 </p>
 
-- 🖥 &nbsp;
+<h3> 🛠 &nbsp;Design Stack</h3>
+- :shipit: &nbsp;
 <p float="left">
-  <img src="/icons/?.png" /> 
+  <img src="/icons/adobe-photoshop.png" /> 
+  <img src="/icons/figma.png" />
+  <img src="/icons/canva.png" />
 </p>
-
-
 
 <br/>
 
@@ -65,4 +66,7 @@ Here are some ideas to get you started:
 
 
 C r e d i t s :
+
 Icons made by <a href="https://www.flaticon.com/authors/flat-icons" title="Flat Icons">Flat Icons</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
+
+<a href="https://icons8.com/icon/nBeuei22ZvUb/canva">Canva icon by Icons8</a>
