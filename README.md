@@ -9,10 +9,10 @@ I like challenges and I'm also passionate about science, music, and art.
 
 - 💻 Programming languages &nbsp;
 <p float="left">
-  <img src="/icons/javascript.png" /> 
-  <img src="/icons/php.png" />
-  <img src="/icons/python.png" />
-  <img src="/icons/java.png" />
+  <img src="/svg/js.png" width="25" /> 
+  <img src="/svg/php.png" width="25" />
+  <img src="/svg/python.png" width="25" />
+  <img src="/svg/java.png" width="25" />
 </p>
 
 - 🌐 &nbsp;
