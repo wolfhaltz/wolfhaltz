@@ -17,7 +17,7 @@ I like challenges and I'm also passionate about science, music, and art.
 
 - 🌐 &nbsp;
 <p float="left">
-  <img src="/svg/html5.svg" style="width: 64px" /> 
+  <img src="/svg/html5.svg" width="64" /> 
   <img src="/svg/css3.svg" style="width: 64px" /> 
   <img src="/svg/bootstrap.svg" style="width: 64px" /> 
   <img src="/svg/laravel.svg" style="width: 64px" /> 
