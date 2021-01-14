@@ -8,8 +8,8 @@ I like challenges and I'm also passionate about science, music, and art.
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 💻 &nbsp;
-| Languages                                | Frameworks & Libraries                      | Others
-| ---------------------------------------- |---------------------------------------------| -------------------------------------------| Dev tools                                   | DBs                                       |
+| Languages                                | Frameworks & Libraries                      | Others | Dev tools                         | DBs |
+| ---------------------------------------- |---------------------------------------------| -------------------------------------------|-----| ---:|
 | <img src="/svg/js.svg" width="25" />     | <img src="/svg/bootstrap.svg" width="25" /> | <img src="/svg/html5.svg" width="25" />    | <img src="/svg/git.svg" width="25" />       | <img src="/icons/mysql.png" width="40" /> |
 | <img src="/svg/php.svg" width="25" />    | <img src="/svg/laravel.svg" width="25" />   | <img src="/svg/css3.svg" width="25" />     | <img src="/svg/github.svg" width="25" />    |                                           |
 | <img src="/svg/python.svg" width="25" /> | <img src="/svg/vuejs.svg" width="25" />     | <img src="/svg/node-js.svg" width="25" />  | <img src="/svg/bitbucket.svg" width="25" /> |                                           |
