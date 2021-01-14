@@ -6,6 +6,7 @@ My heart beats for developing systems and, I truly believe, that we can improve 
 I like challenges and I'm also passionate about science, music, and art.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
+
 | Languages                                | Frameworks<br>& Libraries                      | Others | Dev tools                         | DBs |
 | ---------------------------------------- |---------------------------------------------| -------------------------------------------|-----| ---:|
 | <img src="/svg/js.svg" width="25" />     | <img src="/svg/bootstrap.svg" width="25" /> | <img src="/svg/html5.svg" width="25" />    | <img src="/svg/git.svg" width="25" />       | <img src="/icons/mysql.png" width="40" /> |
@@ -16,6 +17,7 @@ I like challenges and I'm also passionate about science, music, and art.
 
 
 <h3> 🛠 &nbsp;Design Stack</h3>
+
 | Tools                                               | Others                                        |
 | --------------------------------------------------- | ---------------------------------------------:|
 | <img src="/icons/adobe-photoshop.png" width="40" /> | <img src="/icons/canva_icon.png" width="40" />|
