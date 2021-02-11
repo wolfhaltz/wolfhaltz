@@ -37,3 +37,6 @@ C r e d i t s :shipit:
 Icons made by:<br>
 <a href="https://www.flaticon.com/authors/flat-icons" title="Flat Icons">Flat Icons</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a><br>
 <a href="https://icons8.com/icon/nBeuei22ZvUb/canva">Canva icon by Icons8</a>
+
+Almost all my images used on projects are from:<br>
+<a href="https://www.freepik.com" title="Freepik" target="_blank">Freepik</a>
