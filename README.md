@@ -5,6 +5,10 @@
 My heart beats for developing systems and, I truly believe, that we can improve ourselves every day, as well as we also can help people as we can, helping them to reach and raise the best inside them, and, make them spread their best to the world.
 I like challenges and I'm also passionate about science, music, and art.
 
+<p align="center">
+  <a href="bsideofcode.blogspot.com"><img alt="Blogger" src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" ></a>
+</p>
+
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 | Languages                                | Frameworks<br>& Libraries                      | Others | Dev tools                         | DBs |
