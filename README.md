@@ -11,13 +11,13 @@ I like challenges and I'm also passionate about science, music, and art.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-| Languages  | Frameworks<br>& Libraries   | Others    | Dev tools        | DBs |
-| -----------|-----------------------------| --------------------------|-----| ---:|
-| JS         | Bootstrap | HTML5           | Git       | MySQL |
-| PHP        | Laravel   | CSS3            | Github    |       |
-| Python     | VueJS     | NodeJS          | Bitbucket |       |
-| Java       | Angular   |                 | Codepen   |       |
-|                                          | ReactJS   | 
+| Languages  | Frameworks<br>& Libraries   | Others          | Dev tools | DBs   |
+| -----------|-----------------------------| ----------------|-----------| -----:|
+| JS         | Bootstrap                   | HTML5           | Git       | MySQL |
+| PHP        | Laravel                     | CSS3            | Github    |       |
+| Python     | VueJS                       | NodeJS          | Bitbucket |       |
+| Java       | Angular                     |                 | Codepen   |       |
+|            | ReactJS   | 
 
 
 <h3> 🛠 &nbsp;Design Stack</h3>
