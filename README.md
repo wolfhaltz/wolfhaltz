@@ -11,7 +11,7 @@ I like challenges and I'm also passionate about science, music, and art.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-| Languages  | Frameworks<br>& Libraries   | Others | Dev tools        | DBs |
+| Languages  | Frameworks<br>& Libraries   | Others    | Dev tools        | DBs |
 | -----------|-----------------------------| --------------------------|-----| ---:|
 | JS         | Bootstrap | HTML5           | Git       | MySQL |
 | PHP        | Laravel   | CSS3            | Github    |       |
@@ -22,10 +22,10 @@ I like challenges and I'm also passionate about science, music, and art.
 
 <h3> 🛠 &nbsp;Design Stack</h3>
 
-| Tools                                               | Others                                        |
-| --------------------------------------------------- | ---------------------------------------------:|
-| <img src="/icons/adobe-photoshop.png" width="40" /> | <img src="/icons/canva_icon.png" width="40" />|
-| <img src="/icons/figma.png" width="40" />           |                                               |
+| Tools       | Others   |
+| ----------- | --------:|
+| Photoshop   | Canva    |
+| Figma       |          |
 
 <br/>
 
